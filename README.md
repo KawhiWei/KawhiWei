@@ -1,5 +1,23 @@
-### Github Stats
+### Hi There 👋😋
 Hi，您是第 ![Visitor Count](https://profile-counter.glitch.me/KawhiWei/count.svg) 个访问者！
+
+- In 2022, I made 1247 contributions and modified 208,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
+- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html)
+- 🔭 I’m currently working on ShangHai
+- ⚡ Fun fact: Coding & Music
+- 🤔 I’m looking for help with
+
+#### About me:
+
+[![Blogs](https://img.shields.io/badge/CNBlogs-3693F3?logo=GoogleHome&logoColor=white&style=flat-square)](https://www.cnblogs.com/kawhi187/)
+[![QQ](https://img.shields.io/badge/QQ-9599ed?logo=TencentQQ&logoColor=white&style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=7nxtieNadHOuoeH9rqcWD4uTSGQ70J8W&noverify=0&personal_qrcode_source=3)
+[![Email](https://img.shields.io/badge/Mail-d02109?logo=gmail&logoColor=white&style=flat-square)](mailto:kawhi18790997531@163.com)
+[![GitHub Stars](https://img.shields.io/github/stars/KawhiWei?color=2da44e&label=GitHub%20Stars&logo=Github&style=flat-square)](https://github.com/KawhiWei)
+![GitHub followers](https://img.shields.io/github/followers/KawhiWei?label=Followers&style=flat-square)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KawhiWei.KawhiWei&left_text=Visitors&left_color=red&right_color=green)](https://github.com/KawhiWei)
+
+
+
 
 
 <a href="https://github.com/KawhiWei">
