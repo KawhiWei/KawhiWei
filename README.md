@@ -26,6 +26,24 @@ Hi，您是第 ![Visitor Count](https://profile-counter.glitch.me/KawhiWei/count
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff&style=flat-square)
 
+#### Framework and Tools:
+
+![Microsoft](https://img.shields.io/badge/Microsoft-999999?logo=Microsoft&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat-square)
+![Github](https://img.shields.io/badge/GitHub-161b22?logo=GitHub&logoColor=white&style=flat-square)
+![VisualStudio](https://img.shields.io/badge/VisualStudio-a578dc?logo=VisualStudio&logoColor=white&style=flat-square)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-24bfa5?logo=VisualStudioCode&logoColor=white&style=flat-square)
+![MicrosoftEdge](https://img.shields.io/badge/MicrosoftEdge-0078D7?logo=MicrosoftEdge&logoColor=white&style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-3776AB?logo=Windows&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-003f8c?logo=Docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326de6?logo=Kubernetes&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-ce332a?logo=Redis&logoColor=white&style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ff6600?logo=RabbitMQ&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-023430?logo=MongoDB&logoColor=white&style=flat-square)
+![Harbor](https://img.shields.io/badge/Harbor-00364d?logo=Harbor&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-343846?logo=Linux&logoColor=white&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?logo=Ubuntu&logoColor=white&style=flat-square)
+![RaspberryPi](https://img.shields.io/badge/RaspberryPi-cd2355?logo=RaspberryPi&logoColor=white&style=flat-square)
 
 
 <a href="https://github.com/KawhiWei">
