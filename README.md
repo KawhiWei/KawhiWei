@@ -16,7 +16,15 @@ Hi，您是第 ![Visitor Count](https://profile-counter.glitch.me/KawhiWei/count
 ![GitHub followers](https://img.shields.io/github/followers/KawhiWei?label=Followers&style=flat-square)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KawhiWei.KawhiWei&left_text=Visitors&left_color=red&right_color=green)](https://github.com/KawhiWei)
 
+#### Languages:
 
+![CSharp](https://img.shields.io/badge/CSharp-2e2960?logo=CSharp&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-51adc2?logo=React&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333&style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-cc375d?logo=Powershell&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff&style=flat-square)
 
 
 
