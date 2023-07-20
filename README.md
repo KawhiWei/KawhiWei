@@ -46,12 +46,10 @@ Hi，您是第 ![Visitor Count](https://profile-counter.glitch.me/KawhiWei/count
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-cd2355?logo=RaspberryPi&logoColor=white&style=flat-square)
 
 
-<a href="https://github.com/KawhiWei">
+<p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KawhiWei&show_icons=true&theme=merko&count_private=true" alt="KawhiWei's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawhiWei&theme=merko&layout=compact" alt="KawhiWei's github top languages" />
-</a>
-<br/>
-
+</p>
 #### Details:
 
 <p align="center">
