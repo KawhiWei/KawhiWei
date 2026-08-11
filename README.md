@@ -1,6 +1,6 @@
 ### Hi There 👋😋
 
-- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn) | [React](https://react.docschina.org) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html) | [Go](https://golang.google.cn/)
+- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn)| [Go](https://golang.google.cn/)| [Python](https://www.python.org/) | [React](https://react.docschina.org) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html) 
 - 🔭 I’m currently working on SuZhou
 - ⚡ Fun fact: Coding & Music
 - 🤔 I’m looking for help with
