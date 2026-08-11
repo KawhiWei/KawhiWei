@@ -18,7 +18,7 @@
 
 ![CSharp](https://img.shields.io/badge/CSharp-2e2960?logo=CSharp&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/go-2e2960?logo=go&logoColor=white&style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-2e2960?logo=Rust&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-2e2960?logo=Rust&logoColor=fff&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333&style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-cc375d?logo=Powershell&logoColor=white&style=flat-square)
