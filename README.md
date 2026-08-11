@@ -1,11 +1,10 @@
 ### Hi There 👋😋
-Hi，您是第 ![Visitor Count](https://profile-counter.glitch.me/KawhiWei/count.svg) 个访问者！
 
-- In 2022, I made 1247 contributions and modified 208,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
-- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn/) | [React](https://react.docschina.org/) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html)
-- 🔭 I’m currently working on ShangHai
+- 🍃 I’m currently learning [.Net](https://dotnet.microsoft.com/zh-cn) | [React](https://react.docschina.org) | [TypeScript](https://www.typescriptlang.org) | [JavaScript](https://developer.mozilla.org/zh-CN/docs/learn/JavaScript) | [Rust](https://course.rs/about-book.html) | [Go](https://golang.google.cn/)
+- 🔭 I’m currently working on SuZhou
 - ⚡ Fun fact: Coding & Music
 - 🤔 I’m looking for help with
+- In 2022, I made 1247 contributions and modified 208,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
 
 #### About me:
 
