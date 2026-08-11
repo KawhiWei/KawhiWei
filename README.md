@@ -46,13 +46,11 @@
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-cd2355?logo=RaspberryPi&logoColor=white&style=flat-square)
 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KawhiWei&show_icons=true)
 <p align="center"> 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=KawhiWei&show_icons=true)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawhiWei&theme=merko&layout=compact" alt="KawhiWei's github top languages" />
-    <img src="https://github-profile-trophy.vercel.app/?username=KawhiWei&theme=monokai&column=8&no-frame=true&no-bg=true" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <!--<source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />-->
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
 </p>
