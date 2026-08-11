@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on SuZhou
 - ⚡ Fun fact: Coding & Music
 - 🤔 I’m looking for help with
-- In 2022, I made 1247 contributions and modified 208,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io](https://www.githubtrends.io)
 
 #### About me:
 
@@ -18,7 +17,8 @@
 #### Languages:
 
 ![CSharp](https://img.shields.io/badge/CSharp-2e2960?logo=CSharp&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-51adc2?logo=React&logoColor=white&style=flat-square)
+![Go](https://golang.google.cn/)
+![Rust](https://course.rs/about-book.html)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333&style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-cc375d?logo=Powershell&logoColor=white&style=flat-square)
@@ -30,6 +30,7 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-999999?logo=Microsoft&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat-square)
 ![Github](https://img.shields.io/badge/GitHub-161b22?logo=GitHub&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-51adc2?logo=React&logoColor=white&style=flat-square)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-a578dc?logo=VisualStudio&logoColor=white&style=flat-square)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-24bfa5?logo=VisualStudioCode&logoColor=white&style=flat-square)
 ![MicrosoftEdge](https://img.shields.io/badge/MicrosoftEdge-0078D7?logo=MicrosoftEdge&logoColor=white&style=flat-square)
