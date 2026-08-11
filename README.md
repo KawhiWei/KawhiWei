@@ -44,9 +44,8 @@
 ![Linux](https://img.shields.io/badge/Linux-343846?logo=Linux&logoColor=white&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?logo=Ubuntu&logoColor=white&style=flat-square)
 ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-cd2355?logo=RaspberryPi&logoColor=white&style=flat-square)
-
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KawhiWei&show_icons=true)
+
 <p align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
